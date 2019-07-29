@@ -1,4 +1,4 @@
-# verifyToken-java
+# vidyo.io-verifyToken-java
 
 Use this to verify tokens that you have generated.
 
